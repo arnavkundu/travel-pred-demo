@@ -6,7 +6,6 @@ import pandas as pd
 
 
 # New changes 
-print("New changes to be done. The build should activate after I commit")
 
 # Load the models from the files
 loaded_lr_model = joblib.load('./model/lr_model.joblib')
