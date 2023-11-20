@@ -6,7 +6,7 @@ import pandas as pd
 
 
 # New changes 
-print("Adding some new changes to see the automatic build")
+print("Adding some new changes to see the automatic build Part 2")
 
 # Load the models from the files
 loaded_lr_model = joblib.load('./model/lr_model.joblib')
